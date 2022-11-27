@@ -1,6 +1,6 @@
 # YAHYA BAKKAR
 
-![This is Yahya Bakkar image.](./../img.jpg "This is Yahya Bakkar image.")
+![This is Yahya Bakkar image.](./img.jpg "This is Yahya Bakkar image.")
 
 **Location:** AL Qobbe - TRIPOLI, North Lebanon  
 **Date of Birth:** 08.06.2000   
